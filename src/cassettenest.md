@@ -1,8 +1,8 @@
 ---
-title: Trey Labs
+title: Cassette Nest
 ---
 
-# {{ title }}
+{% include homenav %}
 
 In active development.
 

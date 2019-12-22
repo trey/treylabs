@@ -2,7 +2,7 @@
 title: APOD Log
 ---
 
-# {{ title }}
+{% include homenav %}
 
 Ongoing.
 

@@ -2,7 +2,7 @@
 title: Egg and Toast
 ---
 
-# {{ title }}
+{% include homenav %}
 
 On hiatus (for now).
 

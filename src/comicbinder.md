@@ -2,7 +2,7 @@
 title: ComicBinder
 ---
 
-# {{ title }}
+{% include homenav %}
 
 On permanent hiatus, but it still has [a website](https://comicbinder.com/).
 
