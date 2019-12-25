@@ -7,6 +7,8 @@ module.exports = function(eleventyConfig) {
     // Copy unaltered original images.
     eleventyConfig.addPassthroughCopy('src/img');
 
+    eleventyConfig.addPassthroughCopy('src/_redirects');
+
     return {
         dir: {
             input: 'src',
