@@ -2,7 +2,9 @@
 
 ## Software and Photography
 
-This is where [I](https://treypiepmeier.com/about/) talk about things I’m building. Here is a list of some things currently in the works, planned, and some things that still live in my heart but are on permanent hiatus.
+This is where [Trey](https://treypiepmeier.com) builds things for Trey (hopefully you’ll find some of these things useful as well). Here is a list of some things currently in the works, planned, and some things that still live in my heart but are on permanent hiatus.
+
+Follow along [on Twitter](https://twitter.com/treylabs).
 
 - In-Progress
     - [Cassette Nest](/cassettenest/)
