@@ -14,8 +14,11 @@
 
 <body>
     <div class="wrapper">{{ content | safe }}</div>
+
     <footer>
         <div id="copyright">&copy; {{ page.date.getFullYear() }} Trey Labs LLC. All rights reserved.</div>
     </footer>
+
+    {% include 'tracking.njk' %}
 </body>
 </html>
