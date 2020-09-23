@@ -16,7 +16,8 @@ a {
 
     &:visited { color: $link-color-visited; }
 
-    &:hover {
+    &:hover,
+    &:focus {
         color: white;
         background: black;
         text-shadow: none;
