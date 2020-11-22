@@ -7,7 +7,7 @@ This is where [Trey](https://treypiepmeier.com) builds things for Trey (hopefull
 Follow along [on Twitter](https://twitter.com/treylabs).
 
 - In-Progress
-    - [Cassette Nest](/cassettenest/)
+    - [Cassette Nest](https://cassettenest.com)
 - Ongoing
     - [APOD Log](/apod/)
     - [Stephen King Checklist](https://sk.listsofbooks.com)
