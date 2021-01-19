@@ -4,9 +4,7 @@ const md = new MarkdownIt();
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addWatchTarget('src/scss');
-
     eleventyConfig.addFilter('markdown', value => md.renderInline(value));
-
     eleventyConfig.addPassthroughCopy('src/img');
     eleventyConfig.addPassthroughCopy('src/_redirects');
 
