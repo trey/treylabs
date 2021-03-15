@@ -2,7 +2,7 @@
 
 ## Software and Photography
 
-This is where [Trey](https://treypiepmeier.com) builds things for Trey (hopefully you’ll find some of these things useful as well). Here is a list of some things currently in the works, planned, and some things that still live in my heart but are on permanent hiatus.
+This is where [Trey](https://treypiepmeier.com) builds things. Here is a list of some things currently in the works, planned, and some things that still live in my heart but are on permanent&nbsp;hiatus.
 
 <p class="callout">
 {{ 'You can support Trey Labs by buying [books](https://bookshop.org/shop/trey) or [shirts](https://cottonbureau.com/people/trey-labs)!'|markdown }}
