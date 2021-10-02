@@ -12,9 +12,9 @@ Follow along [on Twitter](https://twitter.com/treylabs).
 
 - In-Progress
     - [Cassette Nest](https://cassettenest.com)
+    - [Lists of Books](https://listsofbooks.com)
 - Ongoing
     - [APOD Log](/apod/)
-    - [Stephen King Checklist](https://sk.listsofbooks.com)
 - Next
     - [Camera Friends](/camerafriends/)
     - [Bookmarks](/bookmarks/)
