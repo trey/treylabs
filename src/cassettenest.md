@@ -2,7 +2,7 @@
 title: Cassette Nest
 ---
 
-{% include homenav %}
+{% include 'homenav' %}
 
 In active development.
 

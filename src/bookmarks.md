@@ -2,7 +2,7 @@
 title: Bookmarks
 ---
 
-{% include homenav %}
+{% include 'homenav' %}
 
 Planning. Built a fairly functional prototype.
 

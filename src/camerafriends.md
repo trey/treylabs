@@ -2,7 +2,7 @@
 title: Camera Fiends
 ---
 
-{% include homenav %}
+{% include 'homenav' %}
 
 Planning. I have lots of ideas.
 
